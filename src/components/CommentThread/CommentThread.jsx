@@ -13,9 +13,10 @@ const CommentThread = () => {
     }
   }
 
+  //TODO: Add a function to handle comment deletion
   return (
     <div className="p-5 max-w-lg mx-auto">
-      <h2 className="text-lg font-bold">Comments</h2>
+      <h2 className="text-lg font-bold">Comments Thread</h2>
 
       <div className="mt-3">
         <input
