@@ -15,7 +15,8 @@ const CommentThread = () => {
 
   return (
     <div className="p-5 max-w-lg mx-auto">
-      <h2 className="text-lg font-bold">Comments</h2>
+      <h2 className="text-lg font-bold">Comments THread</h2>
+      <h5 className="text-lg font-bold">Comments will be seen here</h5>
 
       <div className="mt-3">
         <input
