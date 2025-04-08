@@ -9,11 +9,15 @@ import TestModal from './components/Modal/TestModal'
 
 // FIX ME
 // TODO: Add a modal component to the app
+// FIX ME
+// TODO: Add a modal component to the app
+// FIX ME
+// TODO: Add a modal component to the app
 const App = () => {
   return (
     <>
       <div id="modal-root"></div>
-      <h1>Test</h1>
+      <h1>Test 123</h1>
       <ThemeProvider>
         <ToastProvider>
           <TestModal />
