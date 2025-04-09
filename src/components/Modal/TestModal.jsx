@@ -10,8 +10,6 @@ const TestModal = () => {
     setIsOpen(true)
   }
 
-  // TODO: Add more functions to test the modal
-
   console.log('methods', handleClose, handleOpen)
 
   return (
