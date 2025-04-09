@@ -7,8 +7,6 @@ import CommentProvider from './components/CommentThread/CommentContext'
 import CommentThread from './components/CommentThread/CommentThread'
 import TestModal from './components/Modal/TestModal'
 
-// FIX ME
-// TODO: Add a modal component to the app
 const App = () => {
   return (
     <>
