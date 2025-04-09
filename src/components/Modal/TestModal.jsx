@@ -10,6 +10,8 @@ const TestModal = () => {
     setIsOpen(true)
   }
 
+  //TODO: Add a button to open the modal
+
   return (
     <div className="p-5">
       <button
