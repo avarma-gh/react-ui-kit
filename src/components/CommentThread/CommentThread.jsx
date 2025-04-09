@@ -12,6 +12,7 @@ const CommentThread = () => {
       setCommentText('')
     }
   }
+  // add methods to add comment and reply
 
   return (
     <div className="p-5 max-w-lg mx-auto">
