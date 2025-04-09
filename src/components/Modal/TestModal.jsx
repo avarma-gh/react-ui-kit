@@ -9,10 +9,6 @@ const TestModal = () => {
   const handleOpen = () => {
     setIsOpen(true)
   }
-
-  // TODO: Add more functions to test the modal
-  // FIXME: Fix the function names
-
   console.log('methods', handleClose, handleOpen)
 
   return (
