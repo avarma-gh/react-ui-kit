@@ -6,6 +6,27 @@ const TestModal = () => {
   //TODO: Add a modal component to the app
   //TODO: Add a modal component to the app
   //TODO: Add a modal component to the app
+
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app//TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app//TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app//TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //FIXME
   return (
     <div className="p-5">
       <button
