@@ -4,6 +4,45 @@ import Modal from './Modal'
 const TestModal = () => {
   const [isOpen, setIsOpen] = useState(false)
 
+  //TODO: Need to utilize all the methods
+  // FIXME: Need to implement the methods
+
+  const handleClose = () => {
+    setIsOpen(false)
+  }
+  const handleOpen = () => {
+    setIsOpen(true)
+  }
+  const handleTest1 = () => {
+    setIsOpen(true)
+  }
+  const handleTest2 = () => {
+    setIsOpen(true)
+  }
+  const handleTest3 = () => {
+    setIsOpen(true)
+  }
+  const handleTest4 = () => {
+    setIsOpen(true)
+  }
+  const handleTest5 = () => {
+    setIsOpen(true)
+  }
+  const handleOpen6 = () => {
+    setIsOpen(true)
+  }
+
+  console.log(
+    'methods',
+    handleClose,
+    handleOpen,
+    handleTest1,
+    handleTest2,
+    handleTest3,
+    handleTest4,
+    handleTest5,
+    handleOpen6
+  )
   return (
     <div className="p-5">
       <button
