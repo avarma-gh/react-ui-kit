@@ -4,6 +4,8 @@ import Modal from './Modal'
 const TestModal = () => {
   const [isOpen, setIsOpen] = useState(false)
   //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
+  //TODO: Add a modal component to the app
   return (
     <div className="p-5">
       <button
