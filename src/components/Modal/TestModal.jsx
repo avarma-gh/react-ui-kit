@@ -10,10 +10,6 @@ const TestModal = () => {
     setIsOpen(true)
   }
 
-  //TODO: Add a modal component to the app
-  //FIXME: Add a modal component to the app
-  // Dummy functions to exceed NOM threshold
-
   console.log('methods', handleClose, handleOpen)
 
   return (
