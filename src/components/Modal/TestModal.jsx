@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Modal from './Modal'
 
+// TODO
 const TestModal = () => {
   const [isOpen, setIsOpen] = useState(false)
 
@@ -14,6 +15,9 @@ const TestModal = () => {
       </button>
 
       <Modal isOpen={isOpen} onClose={() => setIsOpen(false)}>
+        <h2 className="text-lg font-bold">Custom Modal</h2>
+        <h2 className="text-lg font-bold">Custom Modal</h2>
+        <h2 className="text-lg font-bold">Custom Modal</h2>
         <h2 className="text-lg font-bold">Custom Modal</h2>
         <p className="mt-2">This is a modal using React Portals!</p>
         <button
