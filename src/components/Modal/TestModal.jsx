@@ -4,6 +4,9 @@ import Modal from './Modal'
 const TestModal = () => {
   const [isOpen, setIsOpen] = useState(false)
 
+  //FIXME: TESTING
+  // TODO: Add a modal component to the app
+
   const handleClose = () => {
     setIsOpen(false)
   }
