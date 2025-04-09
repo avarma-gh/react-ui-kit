@@ -3,6 +3,13 @@ import Modal from './Modal'
 
 const TestModal = () => {
   const [isOpen, setIsOpen] = useState(false)
+  const handleClose = () => {
+    setIsOpen(false)
+  }
+  const handleOpen = () => {
+    setIsOpen(true)
+  }
+  console.log('methods', handleClose, handleOpen)
 
   return (
     <div className="p-5">
