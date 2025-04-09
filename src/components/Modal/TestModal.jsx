@@ -5,10 +5,7 @@ const TestModal = () => {
   const [isOpen, setIsOpen] = useState(false)
   //TODO: Add a modal component to the app
   //FIXME: Add a modal component to the app
-  //FIXME: Add a modal component to the app
-  //FIXME: Add a modal component to the app
-  //FIXME: Add a modal component to the app
-  //FIXME: Add a modal component to the app
+
   const handleClose = () => {
     setIsOpen(false)
   }
