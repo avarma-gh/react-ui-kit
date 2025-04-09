@@ -10,33 +10,6 @@ const TestModal = () => {
     setIsOpen(true)
   }
 
-  const function1 = () => {
-    console.log('Function 1')
-  }
-
-  const function2 = () => {
-    console.log('Function 1')
-  }
-  const function3 = () => {
-    console.log('Function 1')
-  }
-  const function4 = () => {
-    console.log('Function 1')
-  }
-  const function14 = () => {
-    console.log('Function 1')
-  }
-  const function15 = () => {
-    console.log('Function 1')
-  }
-  const function12 = () => {
-    console.log('Function 1')
-  }
-  const function22 = () => {
-    console.log('Function 1')
-  }
-  console.log('methods', handleClose, handleOpen)
-
   return (
     <div className="p-5">
       <button
