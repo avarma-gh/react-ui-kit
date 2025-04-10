@@ -17,15 +17,7 @@ const TestModal = () => {
   const function2 = () => {
     console.log('Function 1')
   }
-  const function3 = () => {
-    console.log('Function 1')
-  }
-  const function4 = () => {
-    console.log('Function 1')
-  }
-  const function14 = () => {
-    console.log('Function 1')
-  }
+
   const function15 = () => {
     console.log('Function 1')
   }
