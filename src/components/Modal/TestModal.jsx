@@ -7,8 +7,6 @@ const TestModal = () => {
     setIsOpen(false)
   }
 
-  // TODO
-  //FIXME
   const handleOpen = () => {
     setIsOpen(true)
   }
