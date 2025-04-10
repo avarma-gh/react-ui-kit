@@ -10,9 +10,6 @@ const TestModal = () => {
     setIsOpen(true)
   }
 
-  // TODO: Add more functions to test the modal
-  // FIXME: Fix the function names
-
   const function1 = () => {
     console.log('Function 1')
   }
