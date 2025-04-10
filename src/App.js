@@ -8,6 +8,8 @@ import CommentThread from './components/CommentThread/CommentThread'
 import TestModal from './components/Modal/TestModal'
 
 const App = () => {
+  //TODO
+  //FIXME
   return (
     <>
       <div id="modal-root"></div>
