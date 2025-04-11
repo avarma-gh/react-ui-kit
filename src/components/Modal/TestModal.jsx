@@ -4,6 +4,18 @@ import Modal from './Modal'
 const TestModal = () => {
   const [isOpen, setIsOpen] = useState(false)
 
+  // add 10 dummy functions
+  const dummyFunction1 = () => {}
+  const dummyFunction2 = () => {}
+  const dummyFunction3 = () => {}
+  const dummyFunction4 = () => {}
+  const dummyFunction5 = () => {}
+  const dummyFunction6 = () => {}
+  const dummyFunction7 = () => {}
+  const dummyFunction8 = () => {}
+  const dummyFunction9 = () => {}
+  const dummyFunction10 = () => {}
+
   return (
     <div className="p-5">
       <button
