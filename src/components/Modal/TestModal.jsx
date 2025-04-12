@@ -3,6 +3,27 @@ import Modal from './Modal'
 
 const TestModal = () => {
   const [isOpen, setIsOpen] = useState(false)
+  const handleClose = () => {
+    setIsOpen(false)
+  }
+  const handleOpen = () => {
+    setIsOpen(true)
+  }
+
+  //TODO: test modal
+  //FIXME: test modal
+  // Dummy functions to exceed NOM threshold
+  const func1 = () => console.log('Function 1')
+  const func2 = () => console.log('Function 2')
+  const func3 = () => console.log('Function 3')
+  const func4 = () => console.log('Function 4')
+  const func5 = () => console.log('Function 5')
+  const func6 = () => console.log('Function 6')
+  const func7 = () => console.log('Function 7')
+  const func8 = () => console.log('Function 8')
+  const func9 = () => console.log('Function 9') // 9th function
+
+  console.log('methods', handleClose, handleOpen)
 
   return (
     <div className="p-5">
@@ -23,6 +44,13 @@ const TestModal = () => {
           Close
         </button>
       </Modal>
+
+      {/* Add dummy JSX to push file beyond 200 lines */}
+      {Array.from({ length: 190 }, (_, i) => (
+        <p key={i} className="text-sm">
+          Line filler content #{i + 1}
+        </p>
+      ))}
     </div>
   )
 }
