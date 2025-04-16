@@ -6,34 +6,6 @@ const TestModal = () => {
   // TODO: Add a test for the modal component
   // FIXME: Add a test for the modal component
 
-  const function1 = () => {
-    console.log('1')
-  }
-  const function2 = () => {
-    console.log('2')
-  }
-  const function3 = () => {
-    console.log('3')
-  }
-  const function4 = () => {
-    console.log('4')
-  }
-  const function5 = () => {
-    console.log('5')
-  }
-  const function6 = () => {
-    console.log('6')
-  }
-  const function7 = () => {
-    console.log('7')
-  }
-  const function8 = () => {
-    console.log('8')
-  }
-  const function9 = () => {
-    console.log('9')
-  }
-
   return (
     <div className="p-5">
       <button
